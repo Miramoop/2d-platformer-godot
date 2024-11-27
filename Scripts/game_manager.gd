@@ -26,3 +26,5 @@ func _input(event):
 # Add powerups
 # Add levels (could turn into autoload similar to music
 # Built using: https://www.youtube.com/watch?v=LOhfqjmasi0
+
+# For web build, must fix the buttons in menus to allow them to function similarly to windows build
