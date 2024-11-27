@@ -1,1 +1,3 @@
 # 2d-platformer-godot
+A 2d platformer game in which the player tries to collect as many coins as possible by avoiding the obstacles located throughout the level. This game was developed using the [Godot Beginner Tutorial By: Brackeys](https://www.youtube.com/watch?v=LOhfqjmasi0)
+In addition, all the licenses and credits for the assets including sprites, tilesets, fonts, and music can be found [here](https://github.com/Miramoop/2d-platformer-godot/blob/main/Assets/LICENSE%20%26%20CREDITS.txt). I am working on adding new elements to the game not included in the tutorial. Currently, I have added a main menu, pause menu, end menu, and 
