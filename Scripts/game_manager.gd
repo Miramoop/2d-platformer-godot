@@ -16,17 +16,17 @@ func _input(event):
 		pause_menu.show();
 
 # To Do
-# Add volume and sound settings
-
 # Add ability to kill enemy by jump on top of it
-# Expand the level
-# Add effects for picking up coin or getting hit by enemy
-# Add more sounds and music
+# Add volume and sound settings
+# Add own art, sounds, and music
+# Add sound effects or animations for picking up coin or getting hit by enemy
 # Add more danger elements (Spikes, traps, improve enemies)
-# Add Mmnus
-# Add weapons
-# Add powerups
-# Add levels (could turn into autoload similar to music
+# Add powerups (move faster, jump higher, or even doubles the coins you have)
+# Add story elements (maybe a cutscene at beginning of game or cutscene for ending)
+# Add levels (could turn into autoload similar to music)
+
+# Credits:
 # Built using: https://www.youtube.com/watch?v=LOhfqjmasi0
 
+# Bugs:
 # For web build, must fix the buttons in menus to allow them to function similarly to windows build

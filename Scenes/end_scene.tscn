@@ -1,7 +1,8 @@
 [gd_scene load_steps=3 format=3 uid="uid://crg4eadjsh7mt"]
 
-[ext_resource type="Script" path="res://Scenes/end_scene.gd" id="1_1o5ff"]
+[ext_resource type="Script" path="res://Scripts/end_scene.gd" id="1_1o5ff"]
 [ext_resource type="FontFile" uid="uid://cgjb6jrftgchw" path="res://Assets/fonts/PixelOperator8-Bold.ttf" id="1_o8shl"]
+
 
 [node name="EndScene" type="Control"]
 layout_mode = 3
