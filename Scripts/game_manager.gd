@@ -16,6 +16,8 @@ func _input(event):
 		pause_menu.show();
 
 # To Do
+# Add volume and sound settings
+
 # Add ability to kill enemy by jump on top of it
 # Expand the level
 # Add effects for picking up coin or getting hit by enemy
